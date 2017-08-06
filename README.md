@@ -1,18 +1,18 @@
-#Webapp idea
+# Webapp idea
 
-##Idea principal
+## Idea principal
 	
 La idea de crear esta aplicacion es de solventar el problema de la comida que se va a desperdicio en norte America mientras que al mismo tiempo darle a comunidad una manera de comunicarce entre ellos y compartir el exedente de comida o articulos que mantienen en su casa. Esta aplicacion tambien solventaria el uso de automoviles en los usuarios. 88% en los estados unidos tienen que manejar hasta los supermercados. Mientras que el 12 % usan bicicletas o transporte publico para poder llegar a su destino. Esto ofreceria una manera conveniente a los usuarios de tener acceso a articulos.
 
 
-####FACS
+#### FACS
 
 -	Alrededor de 1.3 billones de toneladas de comida se pierden o se van a deperdicio cada ano.
 -	El monto de comida  desperdiciado en dolares es de $680 billones en paises industrializados y en paises en desarrollo es de $310 billones.
 -	Frutas y vegetales tienen el indice mas alto de desperdicio.
 
 
-####Scenario de uso
+#### Scenario de uso
 
 En este scenario participan  usuario Carlos y usuario Eduardo. Ambos poseen la aplicacion a ser desarrollada. 
 
@@ -23,14 +23,14 @@ Por otro lado, Eduardo necesita el articulo que carlos tiene en execedente pero 
 
 
 
-####Modelos economicos a adoptar
+#### Modelos economicos a adoptar
 1.	Version Gratis podria capacitar al usuario a obtener hasta 5 articulos por mes sin limitacion a cantidad de aticulos para enlistar en la aplicacion.
 2.	Version premium daria la capacidad al usuario de obtener/enlistar articulos sin limitacion
 3.	Display Ads en el interface de la aplicacion.
 4.	Sponsorship de marcas de comida o de articulos
 
 
-####Notas:
+#### Notas:
 -	Los articulos donados en esta aplicacion no se tienen que limitar a solamente comida sino tambien a otros productos.
 -	Se podrian implementar dropboxes a futuro para eliminar la necesidad de los usuarios de llegar hasta su casa. 
 
@@ -40,7 +40,6 @@ Por otro lado, Eduardo necesita el articulo que carlos tiene en execedente pero 
 http://www.fao.org/save-food/resources/keyfindings/en/
 
 http://usa.streetsblog.org/2015/04/10/5-things-the-usda-learned-from-its-first-national-survey-of-food-access/
-
 
 
 
