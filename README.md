@@ -22,8 +22,8 @@ Carlos tiene un exeso de comida en su casa donde el conoce que hay articulos los
 Por otro lado, Eduardo necesita el articulo que carlos tiene en execedente pero no quiere gastar dinero o simplemente no quiere correr con el trabajo de manejar hasta su super Mercado. De forma tal que Eduardo bajaria la aplicacion en su movil y obtendria la listas de articulos a ser donados en su comunidad o por un radio seleccionado por Eduardo.  Afortunadamente, Carlos y Eduardo viven en la misma comunidad lo cual le da a Eduardo la facilidad de obtener el articulo con tan solo mandar una peticion a carlos atravez de la aplicacion. 
 
 
-
 #### Modelos economicos a adoptar
+
 1.	Version Gratis podria capacitar al usuario a obtener hasta 5 articulos por mes sin limitacion a cantidad de aticulos para enlistar en la aplicacion.
 2.	Version premium daria la capacidad al usuario de obtener/enlistar articulos sin limitacion
 3.	Display Ads en el interface de la aplicacion.
@@ -31,9 +31,16 @@ Por otro lado, Eduardo necesita el articulo que carlos tiene en execedente pero 
 
 
 #### Notas:
--	Los articulos donados en esta aplicacion no se tienen que limitar a solamente comida sino tambien a otros productos.
--	Se podrian implementar dropboxes a futuro para eliminar la necesidad de los usuarios de llegar hasta su casa. 
 
+-	Los articulos donados en esta aplicacion no se tienen que limitar a solamente comida sino tambien a otros productos.
+-	Se podrian implementar dropboxes a futuro para eliminar la necesidad de los usuarios de llegar hasta su casa.
+
+#### Funcionalidades Clave
+
+-	Cargar un articulo en la aplicacion debe ser extremadamente sencillo
+-	El signup de los usuarios debe realizarse exclusivamente a travez de redes sociales para facilitar la expansion de la aplicación y reducir los tiempos de registro de usuarios
+-	Se debe estudiar muy bien la captación de marcas de los productos a cargar, esto podria ser utilizado como modelo de negocios, o obviarlo para un uso mas sencillo de la aplicación
+-	Se debe estudiar la forma de poder cargar productos a travez de reconocimiento de fotos
 
 #### Citation
 
