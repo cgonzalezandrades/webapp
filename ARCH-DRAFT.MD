@@ -1,6 +1,6 @@
 # Arquitecture
 
-![Image of ARCH](https://drive.google.com/file/d/0B5cVyr2lZGU5ejlqaEFmWVdjNEE/view?usp=sharing)
+![Image of ARCH](https://github.com/cgonzalezandrades/webapp/blob/master/ad.png)
 
 #### AWS Cognito
 
