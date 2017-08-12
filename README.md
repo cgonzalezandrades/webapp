@@ -1,7 +1,7 @@
 # Webapp idea
 
 ## Idea principal
-	
+
 La idea de crear esta aplicacion es de solventar el problema de la comida que se va a desperdicio en norte America mientras que al mismo tiempo darle a comunidad una manera de comunicarce entre ellos y compartir el exedente de comida o articulos que mantienen en su casa. Esta aplicacion tambien solventaria el uso de automoviles en los usuarios. 88% en los estados unidos tienen que manejar hasta los supermercados. Mientras que el 12 % usan bicicletas o transporte publico para poder llegar a su destino. Esto ofreceria una manera conveniente a los usuarios de tener acceso a articulos.
 
 
@@ -14,12 +14,12 @@ La idea de crear esta aplicacion es de solventar el problema de la comida que se
 
 #### Scenario de uso
 
-En este scenario participan  usuario Carlos y usuario Eduardo. Ambos poseen la aplicacion a ser desarrollada. 
+En este scenario participan  usuario Carlos y usuario Eduardo. Ambos poseen la aplicacion a ser desarrollada.
 
 Carlos tiene un exeso de comida en su casa donde el conoce que hay articulos los cuales no seran consumidos en su hogar y desea donarlos a su comunidad o en algunos casos a organizaciones sin fines de lucro que puedan darle uso a este articulo. Carlos ha decidido que desea obtener la aplicacion y publicar el articulo esperando que alguna persona en su comunidad desee obtener el articulo de forma gratuita. De esta forma, carlos tomaria provecho de su iniciativa de ayudar a su comunidad y no dejar que el articulo a dar a donacion se valla a desperdicio.
 
 
-Por otro lado, Eduardo necesita el articulo que carlos tiene en execedente pero no quiere gastar dinero o simplemente no quiere correr con el trabajo de manejar hasta su super Mercado. De forma tal que Eduardo bajaria la aplicacion en su movil y obtendria la listas de articulos a ser donados en su comunidad o por un radio seleccionado por Eduardo.  Afortunadamente, Carlos y Eduardo viven en la misma comunidad lo cual le da a Eduardo la facilidad de obtener el articulo con tan solo mandar una peticion a carlos atravez de la aplicacion. 
+Por otro lado, Eduardo necesita el articulo que carlos tiene en execedente pero no quiere gastar dinero o simplemente no quiere correr con el trabajo de manejar hasta su super Mercado. De forma tal que Eduardo bajaria la aplicacion en su movil y obtendria la listas de articulos a ser donados en su comunidad o por un radio seleccionado por Eduardo.  Afortunadamente, Carlos y Eduardo viven en la misma comunidad lo cual le da a Eduardo la facilidad de obtener el articulo con tan solo mandar una peticion a carlos atravez de la aplicacion.
 
 
 #### Modelos economicos a adoptar
@@ -42,12 +42,11 @@ Por otro lado, Eduardo necesita el articulo que carlos tiene en execedente pero 
 -	Se debe estudiar muy bien la captación de marcas de los productos a cargar, esto podria ser utilizado como modelo de negocios, o obviarlo para un uso mas sencillo de la aplicación
 -	Se debe estudiar la forma de poder cargar productos a travez de reconocimiento de fotos
 
+#### Promociones (Futuro):
+- Partnership con restaurantes una vez haber ganado usuarios y popularidad. La idea de este partnership is que restaurantes ofrescan algun articulo(comida) de su menu a usuarios. Esto ayudaria a el restaurant para hacerce promocion al igual que a la applicacion. 
+
 #### Citation
 
 http://www.fao.org/save-food/resources/keyfindings/en/
 
 http://usa.streetsblog.org/2015/04/10/5-things-the-usda-learned-from-its-first-national-survey-of-food-access/
-
-
-
-
